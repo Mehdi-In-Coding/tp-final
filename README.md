@@ -78,9 +78,9 @@ git push -u origin method/PCA
 Ajout des fichiers :
 
 git add notebooks/pca.ipynb
-git commit -m "Add PCA notebook (2D projection + visualization)"
+git commit -m " notebook Analyse PCA"
 git push
 git add outputs/pca_2d.csv README.md
-git commit -m "Export PCA 2D results and document branch"
+git commit -m "Export PCA 2D"
 git push
 ```  
